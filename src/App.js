@@ -11,7 +11,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <Title content='Welcome'/>
+          <Title content='Welcome to'/>
           <main>
             <Scoreboard />
           </main>
